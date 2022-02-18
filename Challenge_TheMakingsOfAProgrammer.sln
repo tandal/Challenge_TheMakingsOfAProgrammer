@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheFourSistersAndTheDuckbea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheDominionOfKings", "TheDominionOfKings\TheDominionOfKings.csproj", "{5439708C-41FD-4788-96A2-FE006B6D5AA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDefenseOfConsolas", "TheDefenseOfConsolas\TheDefenseOfConsolas.csproj", "{72C213FE-F703-4E80-A3ED-BDD4A1DF9A62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheDefenseOfConsolas", "TheDefenseOfConsolas\TheDefenseOfConsolas.csproj", "{72C213FE-F703-4E80-A3ED-BDD4A1DF9A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairingTheClocktower", "RepairingTheClocktower\RepairingTheClocktower.csproj", "{37AEF95F-F942-49E4-B4A0-D9E963CC5D15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepairingTheClocktower", "RepairingTheClocktower\RepairingTheClocktower.csproj", "{37AEF95F-F942-49E4-B4A0-D9E963CC5D15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watchtower", "Watchtower\Watchtower.csproj", "{C7ACAFB9-812F-4AD0-8C21-6C983B10FFB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Watchtower", "Watchtower\Watchtower.csproj", "{C7ACAFB9-812F-4AD0-8C21-6C983B10FFB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyingInventory", "BuyingInventory\BuyingInventory.csproj", "{488E519E-3279-4F61-8C00-C60CC238D654}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuyingInventory", "BuyingInventory\BuyingInventory.csproj", "{488E519E-3279-4F61-8C00-C60CC238D654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountedInventory", "DiscountedInventory\DiscountedInventory.csproj", "{EDD594B9-B019-438F-8560-D46843A66DF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{488E519E-3279-4F61-8C00-C60CC238D654}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{488E519E-3279-4F61-8C00-C60CC238D654}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{488E519E-3279-4F61-8C00-C60CC238D654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD594B9-B019-438F-8560-D46843A66DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD594B9-B019-438F-8560-D46843A66DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD594B9-B019-438F-8560-D46843A66DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD594B9-B019-438F-8560-D46843A66DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
