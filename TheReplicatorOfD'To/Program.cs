@@ -4,7 +4,7 @@
  * [X] Use a loop to copy the values out of the original array and into the new one.
  * [X] Display the contents of byth arrays one at a time to illustrate that the Replicator of D'To works.
  */
-Console.Title = "The Replicator of D' To";
+Console.Title = "The Replicator of D'To";
 
 int[] firstArray = new int[5];
 int[] secondArray = new int[5];
